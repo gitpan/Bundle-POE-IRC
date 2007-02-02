@@ -1,0 +1,28 @@
+This is the README file for Bundle::POE::IRC.
+
+Please refer to 'perldoc Bundle::POE::IRC' after 
+installation for details.
+
+#####################################################################
+
+* Description
+
+Bundle::POE::IRC
+
+    Bundle to install all POE IRC related modules.
+    
+#####################################################################
+
+* Installation
+
+Bundle::POE::IRC follows the standard perl module 
+install process
+
+perl Makefile.PL
+make
+make test
+make install
+
+The module uses no C or XS parts, so no c-compiler is required.
+
+######################################################################
