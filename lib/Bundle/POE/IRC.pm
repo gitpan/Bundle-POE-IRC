@@ -3,7 +3,7 @@ package Bundle::POE::IRC;
 use strict;
 use vars qw($VERSION);
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -23,13 +23,13 @@ Bundle::POE::IRC - Bundle to install all POE related IRC modules and optional de
 
 =head1 CONTENTS
 
-POE 0.38
+POE 0.9917
 
-POE::Component::Client::DNS 0.99
+POE::Component::Client::DNS 1.00
 
-POE::Component::IRC
+POE::Component::IRC 5.22
 
-POE::Component::Server::IRC
+POE::Component::Server::IRC 1.11
 
 =head1 AUTHOR
 
