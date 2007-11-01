@@ -1,7 +1,9 @@
 --- 
-author: Chris Williams <chris@bingosnet.co.uk>
+abstract: Bundle to install all POE related IRC modules.
+author: 
+  - Chris Williams <chris@bingosnet.co.uk>
 distribution_type: module
-generated_by: Module::Install version 0.67
+generated_by: Module::Install version 0.68
 license: perl
 meta-spec: 
   url: http://module-build.sourceforge.net/META-spec-v1.3.html
@@ -11,4 +13,4 @@ no_index:
   directory: 
     - inc
     - t
-version: 1.02
+version: 1.03
