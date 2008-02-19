@@ -1,6 +1,9 @@
 Bundle::POE::IRC
 ================
 
+1.06	Tue Feb 19 08:28:31 GMT 2008
+	- Updated required versions
+
 1.04	Mon Dec 31 12:46:17 GMT 2007
 	- Updated required versions
 

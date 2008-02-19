@@ -3,7 +3,7 @@ package Bundle::POE::IRC;
 use strict;
 use vars qw($VERSION);
 
-$VERSION = '1.04';
+$VERSION = '1.06';
 
 1;
 
@@ -27,9 +27,9 @@ POE 0.9999
 
 POE::Component::Client::DNS 1.00
 
-POE::Component::IRC 5.42
+POE::Component::IRC 5.66
 
-POE::Component::Server::IRC 1.24
+POE::Component::Server::IRC 1.26
 
 =head1 AUTHOR
 
